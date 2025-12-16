@@ -366,11 +366,11 @@ fun ReadingPlanTab(
                 modifier = Modifier.fillMaxWidth()
             ) {
                 Text(
-                    text = "Your Progress",
+                    text = "Bible In 52",
                     fontSize = 24.sp,
                     fontWeight = FontWeight.SemiBold,
                     color = Color(0xFF1C1C1E),
-                    modifier = Modifier.padding(vertical = 8.dp)
+                    modifier = Modifier.padding(vertical = 12.dp)
                 )
 
                 Row(
